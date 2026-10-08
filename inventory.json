@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Nanaimo",
-  "generated_at": "2026-09-26T11:57:17",
+  "generated_at": "2026-10-08T14:52:44",
   "vehicle_count": 119,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2010,
       "make": "BMW",
       "model": "323 Sedanin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2010 BMW 323 ",
@@ -36,13 +38,16 @@
       "year": 2010,
       "make": "BMW",
       "model": "323",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 BMW X3 Xdrive28iin Nanaimo",
       "vin": "5UXWX9C59G0D77049",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/88c542ddddb6.html",
       "source_url": "https://www.subarunanaimo.com/used/2016-BMW-X3-id14368371.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2016-BMW-X3-id14368371.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,8 +57,10 @@
       "odometer_km": 130533,
       "year": 2016,
       "make": "BMW",
-      "model": "X3 Xdrive28iin Nanaimo",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 BMW X3 ",
@@ -69,13 +76,16 @@
       "year": 2016,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Corolla 4-Door Sedan Le Cvtiin Nanaimo",
       "vin": "2T1BURHE0GC591478",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Le Cvti",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7ce57de84565.html",
       "source_url": "https://www.subarunanaimo.com/used/2016-Toyota-Corolla-id14091267.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2016-Toyota-Corolla-id14091267.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -85,8 +95,10 @@
       "odometer_km": 122346,
       "year": 2016,
       "make": "Toyota",
-      "model": "Corolla 4-Door Sedan Le Cvtiin Nanaimo",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Corolla ",
@@ -102,7 +114,9 @@
       "year": 2016,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda5 Gs At Heated Seatsin Nanaimo",
@@ -119,13 +133,16 @@
       "year": 2017,
       "make": "Mazda5",
       "model": "Gs At Heated Seatsin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 Toyota Sienna Se 8-Passenger V6in Nanaimo",
       "vin": "5TDXZ3DC9HS856562",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Se 8-Passenger V6",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/541c066b37b9.html",
       "source_url": "https://www.subarunanaimo.com/used/2017-Toyota-Sienna-id14324120.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2017-Toyota-Sienna-id14324120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -135,8 +152,10 @@
       "odometer_km": 178951,
       "year": 2017,
       "make": "Toyota",
-      "model": "Sienna Se 8-Passenger V6in Nanaimo",
-      "condition": "used"
+      "model": "Sienna",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 Toyota Sienna ",
@@ -152,13 +171,16 @@
       "year": 2017,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape Sel - 4wdin Nanaimo",
       "vin": "1FMCU9HD2JUC97629",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sel",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6a31494e9e85.html",
       "source_url": "https://www.subarunanaimo.com/used/2018-Ford-Escape-id14289797.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2018-Ford-Escape-id14289797.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -168,8 +190,10 @@
       "odometer_km": 98836,
       "year": 2018,
       "make": "Ford",
-      "model": "Escape Sel - 4wdin Nanaimo",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape ",
@@ -185,7 +209,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 330i Xdrive Sedanin Nanaimo",
@@ -202,7 +228,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 330i ",
@@ -218,13 +246,16 @@
       "year": 2019,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Niro Sx Touringin Nanaimo",
       "vin": "KNDCE3LC1K5255221",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Sx Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/06a41fa095e9.html",
       "source_url": "https://www.subarunanaimo.com/used/2019-Kia-Niro-id14401906.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2019-Kia-Niro-id14401906.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -234,8 +265,10 @@
       "odometer_km": 122752,
       "year": 2019,
       "make": "Kia",
-      "model": "Niro Sx Touringin Nanaimo",
-      "condition": "used"
+      "model": "Niro",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Niro ",
@@ -251,13 +284,16 @@
       "year": 2019,
       "make": "Kia",
       "model": "Niro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Golf GTI Rabbit 5-Dr 2.0t 6spin Nanaimo",
       "vin": "3VW5T7AU7KM006589",
       "stock": "NUMBER",
       "color": "Dark Grey",
+      "trim": "Rabbit 5-Dr 2.0t 6sp",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/eda9392608b5.html",
       "source_url": "https://www.subarunanaimo.com/used/2019-Volkswagen-Golf_GTI-id14410582.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2019-Volkswagen-Golf_GTI-id14410582.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -267,8 +303,10 @@
       "odometer_km": 55216,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Golf GTI Rabbit 5-Dr 2.0t 6spin Nanaimo",
-      "condition": "used"
+      "model": "Golf GTI",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Golf GTI ",
@@ -284,13 +322,16 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X1 Xdrive28i Bluetoothin Nanaimo",
       "vin": "WBXJG9C01L5P87468",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i Bluetooth",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/dc11504d3f6d.html",
       "source_url": "https://www.subarunanaimo.com/used/2020-BMW-X1-id14348016.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2020-BMW-X1-id14348016.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -300,8 +341,10 @@
       "odometer_km": 104139,
       "year": 2020,
       "make": "BMW",
-      "model": "X1 Xdrive28i Bluetoothin Nanaimo",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X1 ",
@@ -317,13 +360,16 @@
       "year": 2020,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Niro Ex Premiumin Nanaimo",
       "vin": "KNDCC3LD9L5364011",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Ex Premium",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/8453b0804ec0.html",
       "source_url": "https://www.subarunanaimo.com/used/2020-Kia-Niro-id14281134.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2020-Kia-Niro-id14281134.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -333,8 +379,10 @@
       "odometer_km": 59542,
       "year": 2020,
       "make": "Kia",
-      "model": "Niro Ex Premiumin Nanaimo",
-      "condition": "used"
+      "model": "Niro",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Niro ",
@@ -350,13 +398,16 @@
       "year": 2020,
       "make": "Kia",
       "model": "Niro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 Gt Awd 2.5l I4 Atin Nanaimo",
       "vin": "3MVDMBDL4MM277239",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/54c91d41f2c5.html",
       "source_url": "https://www.subarunanaimo.com/used/2021-Mazda-CX_30-id14429758.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2021-Mazda-CX_30-id14429758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -366,8 +417,10 @@
       "odometer_km": 40819,
       "year": 2021,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 Atin Nanaimo",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 ",
@@ -383,13 +436,16 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica Limited Awdin Nanaimo",
       "vin": "2C4RC3BG9NR113131",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/c06f97e3fe15.html",
       "source_url": "https://www.subarunanaimo.com/used/2022-Chrysler-Pacifica-id14289796.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2022-Chrysler-Pacifica-id14289796.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -399,8 +455,10 @@
       "odometer_km": 92699,
       "year": 2022,
       "make": "Chrysler",
-      "model": "Pacifica Limited Awdin Nanaimo",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -416,13 +474,16 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Pathfinder Sl Awd V6in Nanaimo",
       "vin": "5N1DR3CE8NC202246",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sl V6",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/5bf50a20ada8.html",
       "source_url": "https://www.subarunanaimo.com/used/2022-Nissan-Pathfinder-id14100699.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2022-Nissan-Pathfinder-id14100699.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -432,8 +493,10 @@
       "odometer_km": 60677,
       "year": 2022,
       "make": "Nissan",
-      "model": "Pathfinder Sl Awd V6in Nanaimo",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Pathfinder ",
@@ -449,13 +512,16 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC0RH310248",
       "stock": "NUMBER",
       "color": "Ice Silver Metallic",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/d793db4ec344.html",
       "source_url": "https://www.subarunanaimo.com/used/2024-Subaru-Crosstrek-id14416479.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2024-Subaru-Crosstrek-id14416479.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -465,8 +531,10 @@
       "odometer_km": 42018,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ",
@@ -482,13 +550,16 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Wilderness Awdin Nanaimo",
       "vin": "4S4BTHTD8R3110265",
       "stock": "NUMBER",
       "color": "Autumn Green Met.",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/947b636f4d9f.html",
       "source_url": "https://www.subarunanaimo.com/used/2024-Subaru-Outback-id14352055.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2024-Subaru-Outback-id14352055.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -498,8 +569,10 @@
       "odometer_km": 58280,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Wilderness Awdin Nanaimo",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -515,7 +588,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ",
@@ -531,7 +606,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -547,13 +624,16 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Premier 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDTC0SH566632",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6342c8585a07.html",
       "source_url": "https://www.subarunanaimo.com/used/2025-Subaru-Forester-id14175253.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2025-Subaru-Forester-id14175253.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,8 +643,10 @@
       "odometer_km": 20321,
       "year": 2025,
       "make": "Subaru",
-      "model": "Forester Premier 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester ",
@@ -580,7 +662,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester ",
@@ -596,7 +680,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZin Nanaimo",
@@ -611,7 +697,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -627,7 +715,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -643,7 +733,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -659,7 +751,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -675,7 +769,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Imprezain Nanaimo",
@@ -690,7 +786,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Imprezain Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -706,7 +804,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Solterrain Nanaimo",
@@ -721,7 +821,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Solterrain Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseekerin Nanaimo",
@@ -736,7 +838,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseekerin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted ",
@@ -752,7 +856,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX ",
@@ -768,13 +874,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDRC8TH447705",
       "stock": "NUMBER",
       "color": "River Rock Pearl",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1151c90c854f.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14302163.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14302163.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +893,17 @@
       "odometer_km": 4168,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDC1TH462182",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/8ac4929fd81a.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331364.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331364.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +913,17 @@
       "odometer_km": 9856,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDCXTH462147",
       "stock": "NUMBER",
       "color": "River Rock Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/99dc7df2f609.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331365.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331365.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +933,17 @@
       "odometer_km": 11817,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC7TH460835",
       "stock": "NUMBER",
       "color": "River Rock Pearl",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/198680defee8.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331366.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14331366.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +953,17 @@
       "odometer_km": 10920,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDC3TH462152",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/f15b4a70fe10.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344223.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344223.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +973,17 @@
       "odometer_km": 8625,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDCXTH462231",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/0ca2bff35313.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344225.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344225.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +993,17 @@
       "odometer_km": 11661,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC8TH460438",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/162afa387b3c.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344226.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344226.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -885,14 +1012,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC0TH462166",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/5e1ee89a0671.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344227.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344227.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,14 +1032,17 @@
       "odometer_km": 9842,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC5TH460560",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/081958fbdf12.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344228.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344228.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,14 +1052,17 @@
       "odometer_km": 8552,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDCXTH462116",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7d89c2c4e584.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344229.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344229.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -936,14 +1072,17 @@
       "odometer_km": 10546,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC3TH462274",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/92aabea422c0.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344230.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14344230.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -953,14 +1092,17 @@
       "odometer_km": 12302,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDC0TH462075",
       "stock": "NUMBER",
       "color": "Autumn Green Metallic",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/754f7b59f949.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357000.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -970,14 +1112,17 @@
       "odometer_km": 10546,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDC4TH462192",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/40896a62dcad.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357001.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357001.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -987,14 +1132,17 @@
       "odometer_km": 12387,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC0TH460501",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1d0ad9114491.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357002.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14357002.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,14 +1152,17 @@
       "odometer_km": 11894,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDC0TH462187",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/babdde420a5e.html",
       "source_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14376973.html",
       "dealer_url": "https://www.subarunanaimo.com/used/2026-Subaru-Forester-id14376973.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1021,8 +1172,10 @@
       "odometer_km": 8558,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -1038,7 +1191,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZin Nanaimo",
@@ -1053,7 +1208,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -1069,7 +1226,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -1085,7 +1244,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -1101,7 +1262,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -1117,7 +1280,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Imprezain Nanaimo",
@@ -1132,7 +1297,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Imprezain Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -1148,7 +1315,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Solterrain Nanaimo",
@@ -1163,7 +1332,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Solterrain Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseekerin Nanaimo",
@@ -1178,7 +1349,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseekerin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted ",
@@ -1194,7 +1367,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX ",
@@ -1210,13 +1385,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC0T8240453",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/65fb995f94ae.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id13611743.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id13611743.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1225,14 +1403,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC9T8265530",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/9f277c6ad8e5.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14016409.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14016409.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1241,14 +1422,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC2T8269580",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/c536ad40064b.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14119144.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14119144.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1257,14 +1441,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC6T8281653",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1c058ec2bd3a.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14253311.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14253311.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1273,14 +1460,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC3T8281139",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/d4dadc9842f9.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258674.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258674.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1289,14 +1479,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC4T8281202",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b6f0de2d5f67.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258675.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258675.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1305,14 +1498,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC6T8281331",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e13c71635859.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258677.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258677.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1321,14 +1517,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC5T8281450",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/086f70cc0fd0.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258679.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14258679.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1337,14 +1536,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC7T8282731",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/30c98b2695c6.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14276820.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14276820.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1353,14 +1555,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC4T8273549",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e47f7f32cc21.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14289802.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14289802.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1369,14 +1574,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
       "vin": "JF2GUHBC7T8279690",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/33a9b900d030.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14289806.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14289806.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1385,14 +1593,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC6T8280004",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/762df30ebcbc.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317749.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317749.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1401,14 +1612,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC4T8267153",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/5dfed7464195.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317755.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317755.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1417,14 +1631,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC6T8279578",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/47caa61c1930.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317757.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1433,14 +1650,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC1T8279582",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1f403af2f254.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317758.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1449,14 +1669,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC2T8279611",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/f858d39ef2e0.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317760.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1465,14 +1688,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
       "vin": "JF2GUHBC7T8279818",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/25e0f5461cde.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317761.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1707,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC2T8279898",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fa65b723346c.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317762.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14317762.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1497,14 +1726,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC5T8239599",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/7e6517ff2bca.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14324122.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14324122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1745,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
       "vin": "JF2GUHBC4T8289299",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/d55910a0a8c9.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331369.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1529,14 +1764,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC1T8289500",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a6aeed3cdac9.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331371.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331371.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1545,14 +1783,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC7T8289505",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1ee39dd960a2.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331372.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331372.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1561,14 +1802,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC4T8289510",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e1852ba1aa9a.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331373.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1577,14 +1821,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC3T8289725",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fb4a62c41a9f.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331377.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331377.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1593,14 +1840,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC4T8289896",
       "stock": "NUMBER",
       "color": "Sapphire Blue Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a954a0b7c648.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331379.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14331379.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1609,14 +1859,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
       "vin": "JF2GUHBC8T8289306",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/4d7a6f224cb3.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14344232.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14344232.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1625,14 +1878,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC7T8266997",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/5a7874022e49.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14376979.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14376979.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1641,14 +1897,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC2T8280448",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b547d51b0f95.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14382573.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14382573.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1657,14 +1916,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC0T8280450",
       "stock": "NUMBER",
       "color": "Crystal Black Silica",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/28fe018ace2f.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14382574.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14382574.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1673,14 +1935,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDCXT8291667",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b30da18da9ac.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14389590.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14389590.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1689,14 +1954,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFC2T8291403",
       "stock": "NUMBER",
       "color": "Sand Dune Pearl",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1cd25e5d5567.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14395959.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14395959.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1705,14 +1973,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC1T8219692",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca2f6514db96.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14435949.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Crosstrek-id14435949.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1721,14 +1992,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDAC1TH468214",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b0ba037f6016.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14127137.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14127137.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1737,14 +2011,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience 2.5l Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDAC9TH472804",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e2fad11cc152.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14289801.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14289801.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2030,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience 2.5l Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDAC2TH476449",
       "stock": "NUMBER",
       "color": "Crystal White Pearl",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/69ac031dc6b2.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14389593.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14389593.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1769,14 +2049,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience 2.5l Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDAC0TH476479",
       "stock": "NUMBER",
       "color": "Magnetite Grey Metallic",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e42375bcdf7e.html",
       "source_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14389594.html",
       "dealer_url": "https://www.subarunanaimo.com/new/inventory/2026-Subaru-Forester-id14389594.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1785,8 +2068,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience 2.5l Cvtin Nanaimo",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -1802,7 +2087,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru BRZin Nanaimo",
@@ -1817,7 +2104,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "BRZin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Solterrain Nanaimo",
@@ -1832,7 +2121,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Solterrain Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseekerin Nanaimo",
@@ -1847,7 +2138,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseekerin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Unchartedin Nanaimo",
@@ -1862,7 +2155,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Unchartedin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru BRZin Nanaimo",
@@ -1877,7 +2172,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "BRZin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Solterrain Nanaimo",
@@ -1892,7 +2189,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Solterrain Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseekerin Nanaimo",
@@ -1907,7 +2206,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseekerin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Unchartedin Nanaimo",
@@ -1922,7 +2223,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Unchartedin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
