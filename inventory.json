@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Nanaimo",
-  "generated_at": "2026-10-25T14:02:54",
+  "generated_at": "2026-10-25T14:15:01",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -182,6 +182,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC1T8291152",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/8a577d5480ef.html",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC6T8291499",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/3346fb6d10c2.html",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
       "vin": "JF2GUHDC1T8219692",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca2f6514db96.html",
@@ -201,14 +217,6 @@
       "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
       "vin": "JF2GUHFCXT8279788",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca39e49fecdc.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC5T8279729",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/97fa3cba3ea0.html",
       "condition": "new",
       "price": 38364.0,
       "price_currency": "CAD"
@@ -275,14 +283,6 @@
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e42375bcdf7e.html",
       "condition": "new",
       "price": 36127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC9TH471894",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/9c0f8b02a55b.html",
-      "condition": "new",
-      "price": 36497.0,
       "price_currency": "CAD"
     },
     {
