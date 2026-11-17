@@ -1,382 +1,216 @@
 {
   "dealership": "Subaru Of Nanaimo",
-  "generated_at": "2026-10-26T08:28:05",
-  "vehicle_count": 81,
+  "generated_at": "2026-11-17T09:50:23",
+  "vehicle_count": 92,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC9T8265530",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/9f277c6ad8e5.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC2T8269580",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/c536ad40064b.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC6T8281653",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1c058ec2bd3a.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC4T8281202",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b6f0de2d5f67.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC6T8281331",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e13c71635859.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC7T8282731",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/30c98b2695c6.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC4T8273549",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e47f7f32cc21.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
-      "vin": "JF2GUHBC7T8279690",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/33a9b900d030.html",
-      "condition": "new",
-      "price": 33864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC6T8280004",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/762df30ebcbc.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC6T8279578",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/47caa61c1930.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC1T8279582",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1f403af2f254.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC2T8279611",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/f858d39ef2e0.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC2T8279898",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fa65b723346c.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC5T8239599",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/7e6517ff2bca.html",
-      "condition": "new",
-      "price": 38050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
-      "vin": "JF2GUHBC4T8289299",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/d55910a0a8c9.html",
-      "condition": "new",
-      "price": 33864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC1T8289500",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a6aeed3cdac9.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC7T8289505",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1ee39dd960a2.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC3T8289725",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fb4a62c41a9f.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC4T8289896",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a954a0b7c648.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC2T8280448",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b547d51b0f95.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC0T8280450",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/28fe018ace2f.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDCXT8291667",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b30da18da9ac.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC1T8291152",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/8a577d5480ef.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
-      "vin": "JF2GUHNC6T8291499",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/3346fb6d10c2.html",
-      "condition": "new",
-      "price": 40364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC1T8219692",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca2f6514db96.html",
-      "condition": "new",
-      "price": 35824.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC7T8279797",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/11bf145658c4.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFCXT8279788",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca39e49fecdc.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC4T8297643",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/6f9e4670dd36.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
-      "vin": "JF2GUHFC9T8296405",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/bc8222f91443.html",
-      "condition": "new",
-      "price": 38364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC7T8297765",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ddb8f5e3efa6.html",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
-      "vin": "JF2GUHBC6T8297856",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/71cdbf6308b6.html",
-      "condition": "new",
-      "price": 33864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC1TH468214",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b0ba037f6016.html",
-      "condition": "new",
-      "price": 36127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC9TH472804",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e2fad11cc152.html",
-      "condition": "new",
-      "price": 36497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC2TH476449",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/69ac031dc6b2.html",
-      "condition": "new",
-      "price": 36497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC0TH476479",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e42375bcdf7e.html",
-      "condition": "new",
-      "price": 36127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDAC7TH471974",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/446276fad60b.html",
-      "condition": "new",
-      "price": 36464.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Subaru Forester 2.0xt Limitedin Nanaimo",
-      "vin": "JF2SJHWC3FH434642",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/64e4fb4e22cc.html",
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Subaru Forester ",
-      "vin": "JF2SJHWC3FH434642",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/e880fa8ab579.html",
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Explorer Xlt - 4wd Pushin Nanaimo",
-      "vin": "1FM5K8D82HGE31016",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/94932ec1fe9d.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Explorer",
+      "name": "Toyota Camry 2015 for salein Nanaimo",
+      "vin": "4T1BF1FK7FU957860",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/cd43068c893a.html",
       "condition": "used",
       "price": 19900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Explorer ",
-      "vin": "1FM5K8D82HGE31016",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/727cc7803f95.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Explorer",
+      "name": "Kia Sportage 2017 for salein Nanaimo",
+      "vin": "KNDPNCAC6H7045957",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/a74e7c3ba083.html",
       "condition": "used",
-      "price": 19900.0,
+      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota 4Runner Sr5 V6 5ain Nanaimo",
-      "vin": "JTEBU5JR3J5483300",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6ca778e769cd.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "4Runner",
+      "name": "Honda Accord Sedan 2018 for salein Nanaimo",
+      "vin": "1HGCV1F33JA801119",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/d06b420ef911.html",
       "condition": "used",
-      "price": 31900.0,
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota 4Runner ",
-      "vin": "JTEBU5JR3J5483300",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/36438d34042e.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "4Runner",
+      "name": "Honda CR-V 2018 for salein Nanaimo",
+      "vin": "2HKRW2H21JH129957",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/8f716ab00d39.html",
       "condition": "used",
-      "price": 31900.0,
+      "price": 23900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW 330i Xdrive Sedanin Nanaimo",
+      "name": "Subaru Forester 2018 for salein Nanaimo",
+      "vin": "JF2SJEMC1JH593279",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/26e72d301da5.html",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 330i 2019 for salein Nanaimo",
       "vin": "WBA5R7C56KAJ78629",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/754f664eef64.html",
-      "year": 2019,
-      "make": "BMW",
-      "model": "330i Xdrive Sedanin Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6193ab4eb6f1.html",
       "condition": "used",
       "price": 25900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW 330i ",
+      "name": "BMW X1 2020 for salein Nanaimo",
+      "vin": "WBXJG9C01L5P87468",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/04bc6a898967.html",
+      "condition": "used",
+      "price": 20900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2021 for salein Nanaimo",
+      "vin": "1FMCU9H6XMUA72400",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/2d8e24cb047d.html",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2021 for salein Nanaimo",
+      "vin": "1C4HJXEN1MW556205",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/91946c3b227e.html",
+      "condition": "used",
+      "price": 33900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2021 for salein Nanaimo",
+      "vin": "JF2SKEXCXMH546085",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/4230a644d709.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2022 for salein Nanaimo",
+      "vin": "2C4RC3BG9NR113131",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1f7954d9769a.html",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2022 for salein Nanaimo",
+      "vin": "5N1DR3CE8NC202246",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/ca808b39c40c.html",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X3 2023 for salein Nanaimo",
+      "vin": "5UX63DP07P9N64411",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/c455c8d9ab23.html",
+      "condition": "used",
+      "price": 44900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2023 for salein Nanaimo",
+      "vin": "3GTUUCEDXPG120087",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/42cb24662b7f.html",
+      "condition": "used",
+      "price": 46900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Prius Prime 2023 for salein Nanaimo",
+      "vin": "JTDACACU0P3010455",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/baa8aaacb20f.html",
+      "condition": "used",
+      "price": 33900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Crosstrek 2024 for salein Nanaimo",
+      "vin": "JF2GUABC6RH896319",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/fc0c9ffa7c6a.html",
+      "condition": "used",
+      "price": 25900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2024 for salein Nanaimo",
+      "vin": "JF2SKEFC9RH432796",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b33f874cfc75.html",
+      "condition": "used",
+      "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Seltos 2027 for salein Nanaimo",
+      "vin": "KNDEECD73V7032648",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7a16fff1a4fd.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Toyota Camry 4-Door Sedan Xse 6ain Nanaimo",
+      "vin": "4T1BF1FK7FU957860",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/59d993701240.html",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Kia Sportage EXin Nanaimo",
+      "vin": "KNDPNCAC6H7045957",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/75bc1467f8d7.html",
+      "year": 2017,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 15900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda Accord Sedan 1.5t Sport-Hsin Nanaimo",
+      "vin": "1HGCV1F33JA801119",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/f5c8090d1864.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Accord",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda CR-V Ex-L Awd Back-Upin Nanaimo",
+      "vin": "2HKRW2H21JH129957",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/cdbd18afd959.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 23900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Forester 2.5i Touringin Nanaimo",
+      "vin": "JF2SJEMC1JH593279",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/ed114e6a0a93.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 BMW 330i Xdrive Sedanin Nanaimo",
       "vin": "WBA5R7C56KAJ78629",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6193ab4eb6f1.html",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6a893997f6af.html",
       "year": 2019,
       "make": "BMW",
-      "model": "330i",
+      "model": "330i Xdrive Sedanin Nanaimo",
       "condition": "used",
       "price": 25900.0,
       "price_currency": "CAD"
@@ -393,47 +227,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 BMW X1 ",
-      "vin": "WBXJG9C01L5P87468",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/04bc6a898967.html",
-      "year": 2020,
-      "make": "BMW",
-      "model": "X1",
+      "name": "2021 Ford Escape Sel Awd 1.5lin Nanaimo",
+      "vin": "1FMCU9H6XMUA72400",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/9905722bef88.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
       "condition": "used",
-      "price": 20900.0,
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Honda Ridgeline Touringin Nanaimo",
-      "vin": "5FPYK3F74MB500163",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b73bad648bf2.html",
+      "name": "2021 Jeep Wrangler Saharain Nanaimo",
+      "vin": "1C4HJXEN1MW556205",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1d89aa700f60.html",
       "year": 2021,
-      "make": "Honda",
-      "model": "Ridgeline",
+      "make": "Jeep",
+      "model": "Wrangler",
       "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Honda Ridgeline ",
-      "vin": "5FPYK3F74MB500163",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/c320e2d81715.html",
-      "year": 2021,
-      "make": "Honda",
-      "model": "Ridgeline",
-      "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru Forester Limited Cvtin Nanaimo",
-      "vin": "JF2SKEUC8MH481676",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/d0da6f22f41d.html",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 26900.0,
+      "price": 33900.0,
       "price_currency": "CAD"
     },
     {
@@ -448,31 +260,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Forester ",
-      "vin": "JF2SKEUC8MH481676",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/4230a644d709.html",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 26900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Chrysler Pacifica Limited Awdin Nanaimo",
       "vin": "2C4RC3BG9NR113131",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/c06f97e3fe15.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chrysler Pacifica ",
-      "vin": "2C4RC3BG9NR113131",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1f7954d9769a.html",
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
@@ -492,36 +282,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Pathfinder ",
-      "vin": "5N1DR3CE8NC202246",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/ca808b39c40c.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Pathfinder",
+      "name": "2023 BMW X3 Xdrive30ein Nanaimo",
+      "vin": "5UX63DP07P9N64411",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/d80081031b9e.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X3",
       "condition": "used",
-      "price": 32900.0,
+      "price": 44900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru Solterra At-Pue Alxin Nanaimo",
-      "vin": "JTMABABA9PA032749",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/d8bc3f90de5a.html",
+      "name": "2023 GMC Sierra 1500 Crew Cab 4x4in Nanaimo",
+      "vin": "3GTUUCEDXPG120087",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/573fc3610a42.html",
       "year": 2023,
-      "make": "Subaru",
-      "model": "Solterra",
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab 4x4in Nanaimo",
       "condition": "used",
-      "price": 32900.0,
+      "price": 46900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru Solterra ",
-      "vin": "JTMABABA9PA032749",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/3903779130a0.html",
+      "name": "2023 Toyota Prius Prime XSEin Nanaimo",
+      "vin": "JTDACACU0P3010455",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/f8b10211a95d.html",
       "year": 2023,
-      "make": "Subaru",
-      "model": "Solterra",
+      "make": "Toyota",
+      "model": "Prius Prime",
       "condition": "used",
-      "price": 32900.0,
+      "price": 33900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru Crosstrek Convenience Cvtin Nanaimo",
+      "vin": "JF2GUABC6RH896319",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/32ae8d4d2b9c.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 25900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru Forester Sport 2.5l Cvtin Nanaimo",
+      "vin": "JF2SKEFC9RH432796",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/a1853dde91b1.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 34900.0,
       "price_currency": "CAD"
     },
     {
@@ -558,17 +370,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Forester Touring 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDDC6SH489862",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/02390be578ba.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 35900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDAC1SH496206",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/1d6f022d50be.html",
@@ -577,6 +378,28 @@
       "model": "Forester",
       "condition": "used",
       "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester Limited 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDRC2SH572472",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b0444afa78c2.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 37900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester Premier 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDTC2SH607021",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/53dd4231737b.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 39900.0,
       "price_currency": "CAD"
     },
     {
@@ -592,41 +415,8 @@
     },
     {
       "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDDC1TH462182",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/8ac4929fd81a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDDCXTH462147",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/99dc7df2f609.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDHC7TH460835",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/198680defee8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 40900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDDC3TH462152",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/f15b4a70fe10.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
@@ -649,17 +439,6 @@
       "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDHC8TH460438",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/162afa387b3c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 41900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Sport 2.5l Cvtin Nanaimo",
-      "vin": "JF2SLDHC5TH460560",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/081958fbdf12.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
@@ -756,6 +535,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Forester Limited 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDRC0TH439565",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b6c7628f53f5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 39900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Forester ",
       "vin": "JF2SLDDC1TH462182",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/634d92604da0.html",
@@ -767,20 +557,405 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos X-Line Awdin Nanaimo",
-      "vin": "KNDEECD73V7032648",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b8f6c075479f.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 38900.0,
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC9T8265530",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/9f277c6ad8e5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos ",
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC2T8269580",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/c536ad40064b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC6T8281653",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1c058ec2bd3a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC4T8281202",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b6f0de2d5f67.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC6T8281331",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e13c71635859.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC7T8282731",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/30c98b2695c6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC4T8273549",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e47f7f32cc21.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
+      "vin": "JF2GUHBC7T8279690",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/33a9b900d030.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC6T8280004",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/762df30ebcbc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC6T8279578",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/47caa61c1930.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC1T8279582",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1f403af2f254.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC2T8279611",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/f858d39ef2e0.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC2T8279898",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fa65b723346c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC5T8239599",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/7e6517ff2bca.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
+      "vin": "JF2GUHBC4T8289299",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/d55910a0a8c9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC1T8289500",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a6aeed3cdac9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC7T8289505",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/1ee39dd960a2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC3T8289725",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/fb4a62c41a9f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC4T8289896",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/a954a0b7c648.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC2T8280448",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b547d51b0f95.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC0T8280450",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/28fe018ace2f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDCXT8291667",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b30da18da9ac.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC1T8291152",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/8a577d5480ef.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNC6T8291499",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/3346fb6d10c2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC1T8219692",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca2f6514db96.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 35824.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC7T8279797",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/11bf145658c4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFCXT8279788",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ca39e49fecdc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC4T8297643",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/6f9e4670dd36.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Onyx Cvtin Nanaimo",
+      "vin": "JF2GUHFC9T8296405",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/bc8222f91443.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38364.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
+      "vin": "JF2GUHDC7T8297765",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/ddb8f5e3efa6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Convenience Cvtin Nanaimo",
+      "vin": "JF2GUHBC6T8297856",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/71cdbf6308b6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDAC1TH468214",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/b0ba037f6016.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDAC9TH472804",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e2fad11cc152.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDAC2TH476449",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/69ac031dc6b2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDAC0TH476479",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/e42375bcdf7e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Forester Convenience 2.5l Cvtin Nanaimo",
+      "vin": "JF2SLDAC7TH471974",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/446276fad60b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36464.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos X-Line Awdin Nanaimo",
       "vin": "KNDEECD73V7032648",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7a16fff1a4fd.html",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b8f6c075479f.html",
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
