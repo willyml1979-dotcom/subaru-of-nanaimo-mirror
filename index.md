@@ -1,6 +1,6 @@
 # Subaru of Nanaimo
 
- dealership in Nanaimo. AI-readable inventory mirror, about 92 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 94 vehicles.
 
 - Official website: https://www.subarunanaimo.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/
