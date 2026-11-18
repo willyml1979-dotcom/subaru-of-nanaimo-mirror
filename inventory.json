@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Nanaimo",
-  "generated_at": "2026-11-18T10:12:35",
+  "generated_at": "2026-11-18T10:18:21",
   "vehicle_count": 94,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -765,17 +765,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Subaru Crosstrek Touring Cvtin Nanaimo",
-      "vin": "JF2GUHDC7T8279797",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/11bf145658c4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
       "vin": "JF2GUHNC8T8294419",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/0bff4e78542b.html",
@@ -795,6 +784,17 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 36864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Subaru Crosstrek Limited Cvtin Nanaimo",
+      "vin": "JF2GUHNCXT8296558",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/new/bf562785609d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40364.0,
       "price_currency": "CAD"
     },
     {
