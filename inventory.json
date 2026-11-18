@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Nanaimo",
-  "generated_at": "2026-11-17T10:04:19",
+  "generated_at": "2026-11-18T01:00:03",
   "vehicle_count": 92,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -139,6 +139,30 @@
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b33f874cfc75.html",
       "condition": "used",
       "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 Hybrid 2025 for salein Nanaimo",
+      "vin": "7MMVAADW2SN116636",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/84f97f22624c.html",
+      "condition": "used",
+      "price": 49900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2025 for salein Nanaimo",
+      "vin": "JF2SLDAC1SH496206",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7d46f9e98361.html",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2026 for salein Nanaimo",
+      "vin": "JF2SLDDCXTH462147",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/634d92604da0.html",
+      "condition": "used",
+      "price": 39900.0,
       "price_currency": "CAD"
     },
     {
@@ -348,17 +372,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-50 Hybrid ",
-      "vin": "7MMVAADW2SN116636",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/84f97f22624c.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-50 Hybrid",
-      "condition": "used",
-      "price": 49900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Subaru Forester Premier 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDTC0SH566632",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/6342c8585a07.html",
@@ -400,17 +413,6 @@
       "model": "Forester",
       "condition": "used",
       "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru Forester ",
-      "vin": "JF2SLDAC1SH496206",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/7d46f9e98361.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
@@ -538,17 +540,6 @@
       "name": "2026 Subaru Forester Limited 2.5l Cvtin Nanaimo",
       "vin": "JF2SLDRC0TH439565",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/b6c7628f53f5.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester ",
-      "vin": "JF2SLDDC1TH462182",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-nanaimo-mirror/used/634d92604da0.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
